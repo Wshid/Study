@@ -29,3 +29,6 @@ https://www.elastic.co/guide/en/logstash/6.5/plugins-inputs-http_poller.html
 
 * Logstash 사용
 http://wooriworld2006.tistory.com/318
+
+* Logstash Pipeline
+https://shortstories.gitbooks.io/studybook/content/logstash,_beats_c815_b9ac.html
